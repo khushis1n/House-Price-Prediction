@@ -1,7 +1,6 @@
 # 🏠 Task 1 — House Price Prediction
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Task-1%20of%204-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Domain-Artificial%20Intelligence-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge"/>
 </p>
