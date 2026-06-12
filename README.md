@@ -94,7 +94,7 @@ Build a **Machine Learning regression model** to predict house prices in Indian 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/riteshcoder02/<repo-name>.git
+git clone https://github.com/khushis1n/<repo-name>.git
 
 # 2. Navigate to Task 1 folder
 cd Task-1-House-Price-Prediction
